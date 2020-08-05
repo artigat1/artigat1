@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Artigat1's github stats](https://github-readme-stats.vercel.app/api?username=artigat1)](https://github.com/artigat1/github-readme-stats)
+
 <!--
 **artigat1/artigat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
