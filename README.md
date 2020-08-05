@@ -5,6 +5,11 @@
 <a href="https://github.com/artigat1/burger-builder">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=artigat1&repo=burger-builder" />
 </a>
+<a href="https://github.com/artigat1/cypress-cucumber">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=artigat1&repo=cypress-cucumber" />
+</a>
+
+
 <!--
 **artigat1/artigat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
